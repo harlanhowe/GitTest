@@ -17,5 +17,6 @@ public class GitTest {
         // TODO code application logic here
         Potato redPotato = new Potato();
         Potato russet = new Potato();
+        Potato fingerling = new Potato();
     }
 }
