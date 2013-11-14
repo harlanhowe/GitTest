@@ -10,4 +10,6 @@ package gittest;
  */
 public class Potato {
     private String eyes;
+    private String nose;
+    
 }
