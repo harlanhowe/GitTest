@@ -9,7 +9,7 @@ package gittest;
  * @author harlan.howe
  */
 public class GitTest {
-
+    static Potato fingerling = new Potato();
     /**
      * @param args the command line arguments
      */
@@ -17,6 +17,6 @@ public class GitTest {
         // TODO code application logic here
         Potato redPotato = new Potato();
         Potato russet = new Potato();
-        Potato fingerling = new Potato();
+        
     }
 }
