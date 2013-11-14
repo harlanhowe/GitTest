@@ -15,6 +15,6 @@ public class GitTest {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Potato redPotato = new Potato();
+        Potato redPotato = new Potato(); 
     }
 }
